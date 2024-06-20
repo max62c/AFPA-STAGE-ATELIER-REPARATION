@@ -26,11 +26,11 @@ En ce qui concerne l’administrateur, celui-ci peut ajouter, modifier, supprime
 En ce qui concerne les stagiaires, ceux-ci peuvent uniquement ajouter et modifier certaines données.
 
 Rendu Final de la page d’accueil pour le visiteur
-![image](https://github.com/max62c/AFPA-AI-V2.6/assets/24512205/e6b68282-525e-4c61-a50f-5dd1e190997c)
-
+![image](https://github.com/max62c/AFPA-STAGE-ATELIER-REPARATION/assets/24512205/137f3734-53f6-479f-82c8-23ef16b0432c)
 
 Rendu Final de la page d’accueil avec le client connecté
-![image](https://github.com/max62c/AFPA-AI-V2.6/assets/24512205/86207698-31a5-4fa8-867a-cf221f2980ba)
+![image](https://github.com/max62c/AFPA-STAGE-ATELIER-REPARATION/assets/24512205/4af5fec9-97be-4985-b2b3-06ab821142db)
 
 Rendu Final du Dashboard pour l’administrateur
-![image](https://github.com/max62c/AFPA-AI-V2.6/assets/24512205/551fe7cc-3b52-413f-9530-004b2a8a1cbc)
+![image](https://github.com/max62c/AFPA-STAGE-ATELIER-REPARATION/assets/24512205/02153992-e444-4833-824c-93928aa11cfb)
+
